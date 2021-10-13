@@ -40,7 +40,7 @@ I made a PCB at JLCPCB.com, which makes it very easy to make!
 <BR><BR><BR>
 
 ### Change log of Version
-V2.2
+V2.1
 
 Adjust PCB size
   
