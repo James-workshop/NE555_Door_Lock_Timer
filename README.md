@@ -36,8 +36,7 @@ I made a PCB at JLCPCB.com, which makes it very easy to make!
 
 ### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
 ### New registered users offer , **Order here https://jlcpcb.com/HAR**
-  
-You can use my Gerber file, go to JLCPCB.com  order PCB
+### You can use my Gerber file to place an order at PLCPCB.com
 <BR><BR><BR>
 
 ### Change log of Version
