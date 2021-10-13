@@ -51,3 +51,4 @@ V1.1
   <BR><BR><BR><BR>
 ## How to make<BR>
   <a href="https://youtu.be/QX0m35GGe1k">https://youtu.be/QX0m35GGe1k</a>
+    ![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/Cover_Photo.jpg "Youtube Cover Photo")
