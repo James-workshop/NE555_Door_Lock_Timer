@@ -5,7 +5,6 @@ NE555 timer was launched in 1971 and has a history of 50 years. It is easy to us
 
 I used NE555 to make an electronic door lock timer. Here is a record of my production process.
 
-![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/NE555PCB.jpg "NE555 electronic door lock timer")
 ![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/NE555PCB2.jpg "NE555 electronic door lock timer")
 <BR><BR><BR><BR>
 # Hardware
@@ -33,7 +32,7 @@ I used NE555 to make an electronic door lock timer. Here is a record of my produ
 ## PCB
 I made a PCB at JLCPCB.com, which makes it very easy to make!
 
-![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/PCB.png "PCB")
+![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/NE555PCB.jpg "NE555 electronic door lock timer")
 
 ### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
 ### New registered users offer , **Order here https://jlcpcb.com/HAR**
@@ -41,7 +40,12 @@ I made a PCB at JLCPCB.com, which makes it very easy to make!
 <BR><BR><BR>
 
 ### Change log of Version
+V2.2
 
+Adjust PCB size
+  
+![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/PCB.png "PCB")
+  
 V1.1
 * First version
   <BR><BR><BR><BR>
