@@ -1,9 +1,9 @@
 # NE555_Door_Lock_Timer
 ![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/Signetics_NE555N.jpeg "NE555")
 
-NE555 timer was launched in 1971 and has a history of 50 years. It is easy to use, stable and cheap, so it is still widely used, and its output in 2003 was 1 billion. Now I use NE555 to make timers. Most of the control parts of electronic door locks use this circuit. The timing method is very simple, 1.1 x RC, which is not very accurate compared with MCU, but it is very simple
+NE555 timer was launched in 1971 and has a history of 50 years. It is easy to use, stable and cheap, so it is still widely used, and its output in 2003 was 1 billion. Now I use NE555 to make an electronic door lock timer. Most of the control parts of electronic door locks use this circuit. The timing method is very simple, 1.1 x RC, which is not very accurate compared with MCU, but it is very simple
 
-I used NE555 to make an electronic door lock timer. Here is a record of my production process.
+Here is a record of my production process.
 
 ![github](https://github.com/James-workshop/NE555_Door_Lock_Timer/blob/main/NE555PCB2.jpg "NE555 electronic door lock timer")
 <BR><BR><BR><BR>
